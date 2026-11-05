@@ -1,0 +1,22 @@
+{
+  "wheel_id": 752,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-109",
+  "project": "excavation-services-toowoomba-red-flags-7c9de75373bd88b5d1afe7b",
+  "parent_t1_ref": "earthmovingtoowoomba-154",
+  "node_role": "feeder",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "excavation services toowoomba red flags",
+  "intended_url": "https://aumedia.neocities.org/excavation-services-toowoomba-red-flags-7c9de75373bd88b5d1afe7b/",
+  "tier": "T2",
+  "writeback_nonce": "dfcd9eb664e7104f",
+  "links": [
+    {
+      "target_url": "http://excavation-services-toowoomba-eb2663c377ec9a1442ec12baecac643f9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Excavation Services Toowoomba: in Toowoomba",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
